@@ -32,5 +32,7 @@ Tools and Libraries
 ![download](https://github.com/user-attachments/assets/760a8b6b-05ee-4c91-a206-5b1e0ca135be)
 
 Results
+
 Sentiment Distribution Plot: Displays how sentiments are distributed across different ratings.
+
 Word Clouds: Provides a visual representation of common words associated with each sentiment category.
